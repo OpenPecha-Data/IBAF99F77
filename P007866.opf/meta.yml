@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC323
   title: 'གསང་སྔགས་རྡོ་རྗེ་ཐེག་པའི་སྤྱི་དོན་མདོར་བསྡུས་པ་ལེགས་བཤད་ནོར་བུའི་འོད་ཟེར། '
-  volume: ''
+  volume:
+    91688b996c88412191239ad0eac7fa80:
+      image_group_id: I2PD18673
+      title: Volume 1 of gsang sngags rdo rje theg pa'i spyi don nor bu'i 'od zer/
+      volume_number: 1
+      total_pages: 200
   author: ''
+ebook_metadata:
+  title: 'གསང་སྔགས་རྡོ་རྗེ་ཐེག་པའི་སྤྱི་དོན་མདོར་བསྡུས་པ་ལེགས་བཤད་ནོར་བུའི་འོད་ཟེར། '
+  author: ''
+  sku: P007866
+  cover: cover.jpg
+  layers:
+  - pagination
